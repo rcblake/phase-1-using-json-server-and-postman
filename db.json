@@ -11,22 +11,9 @@
       "content": "This is also an example."
     },
     {
-      "id": 3
-    },
-    {
-      "id": 4
-    },
-    {
+      "title": "Third Article",
+      "content": "Another example!",
       "id": 5
-    },
-    {
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8
     }
   ]
 }
